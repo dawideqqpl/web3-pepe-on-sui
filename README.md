@@ -2,6 +2,14 @@
 
 Unity 2D arcade prototype inspired by Flappy Bird, extended with PlayFab backend features and optional Web3 / Telegram login flows.
 
+## Demo
+
+Gameplay video:
+
+https://github.com/user-attachments/assets/074b3542-0e85-4f12-bc57-41d63b257c2a
+
+Fallback link: [Watch the demo video](https://github.com/user-attachments/assets/074b3542-0e85-4f12-bc57-41d63b257c2a)
+
 ## Stack
 
 - Unity `2022.3.22f1`
