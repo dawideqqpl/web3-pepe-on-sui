@@ -1,4 +1,4 @@
-# Jesse Pesse
+# PEPE on SUI
 
 Unity 2D arcade prototype inspired by Flappy Bird, extended with PlayFab backend features and optional Web3 / Telegram login flows.
 
